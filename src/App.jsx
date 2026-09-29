@@ -3,7 +3,7 @@ import Navbar from "./assets/components/Navbar.jsx";
 import Footer from "./assets/components/Footer.jsx";
 import Home from "./assets/components/Home.jsx";
 import About from './assets/components/About';
-import Blog from "./assets/components/blog.jsx";
+import Blog from "./assets/components/Blog.jsx";
 import BlogInfo from "./assets/components/BlogInfo.jsx";
 
 function App() {
